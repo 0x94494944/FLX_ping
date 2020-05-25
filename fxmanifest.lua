@@ -4,11 +4,10 @@
 ▀░░░▀ ▀░░▀ ▀▀▀░ ▀▀▀   ▀▀▀░ ▄▄▄█   ▀░░ ▀▀▀ ▀▀▀ ▀▀▀ ▀░▀
 --]]
 
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
-
-creator "Felix / Dev"
-
+fx_version 'bodacious'
+games 'gta5'
+client_script 'client.lua'
+author 'Felix-QC'
 version "1.0"
-
 client_script "client.lua"
 server_script "server.lua"
